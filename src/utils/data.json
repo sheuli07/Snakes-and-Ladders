@@ -1,0 +1,61 @@
+{
+    "ladder": [
+        {
+            "name": "Ladder - 1",
+            "label": "L1",
+            "start": 7,
+            "end": 30
+        },
+        {
+            "name": "Ladder - 2",
+            "label": "L2",
+            "start": 16,
+            "end": 33
+        },
+        {
+            "name": "Ladder - 3",
+            "label": "L3",
+            "start": 36,
+            "end": 83
+        },
+        {
+            "name": "Ladder - 4",
+            "label": "L4",
+            "start": 50,
+            "end": 68
+        }
+    ],
+    "snake": [
+        {
+            "name": "snake - 1",
+            "label": "S1",
+            "head": 95,
+            "tail": 12
+        },
+        {
+            "name": "snake - 2",
+            "label": "S2",
+            "head": 42,
+            "tail": 3
+        },
+        {
+            "name": "snake - 3",
+            "label": "S3",
+            "head": 92,
+            "tail": 67
+        },
+        {
+            "name": "snake - 4",
+            "label": "S4",
+            "head": 56,
+            "tail": 23
+        },
+        {
+            "name": "snake - 5",
+            "label": "S5",
+            "head": 51,
+            "tail": 5
+        }
+    ],
+    "sides": ["zero", "one", "two", "three", "four", "five", "six"]
+}
